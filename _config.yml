@@ -1,0 +1,28 @@
+# Base configs
+baseurl: "yapperyap.github.io/LostPhotos/"
+#baseurl: "" # Comment the above line and uncomment this to test the website locally
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+
+# UI configs
+title: "Photography by YapperYap"
+subtitle: "See the world through meaning"
+author: "YapperYap"
+header:
+ title: "Photography"
+ subtitle: "by YapperYap"
+footer:
+ name: "Hey there, my name is Yap"
+ bio: "I like computers and stuff"
+ github: "https://github.com/yapperyap/LostPhotos"
+web_design: "AJ"
+# Configure which exif data to display
+# Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
+exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
+social_urls:
+  twitter: ""
+  instagram: ""
+  dribbble: ""
+  linkedin: ""
+  github: "https://www.github.com/yapperyap"
