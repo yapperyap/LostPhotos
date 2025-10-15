@@ -22,9 +22,9 @@
   "author": "Ram Patra",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/rampatra/photography/issues"
+    "url": "https://github.com/yapperyap/LostPhotos/"
   },
-  "homepage": "https://github.com/rampatra/photography#readme",
+  "homepage": "https://yapperyap.github.io/LostPhotos/",
   "devDependencies": {
     "del": "^4.1.1",
     "gulp": "^4.0.2",
