@@ -33,5 +33,9 @@
     "gulp-sass": "^5.0.0",
     "gulp-uglify": "^3.0.0",
     "sass": "^1.25.0"
+  },
+  "dependencies": {
+    "jekyll": "^3.0.0-beta1",
+    "ruby": "^0.6.1"
   }
 }
